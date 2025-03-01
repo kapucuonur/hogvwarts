@@ -22,3 +22,4 @@ document.body.addEventListener('mousemove', function(e) {
     document.body.removeChild(sparkle);
   }, 1000);
 });
+
